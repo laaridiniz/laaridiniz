@@ -1,4 +1,4 @@
-### Olá! Eu sou a Larissa! 👋
+### Olá! Eu sou a Larissa! 👋🏻
 Seja muito bem-vindo ao meu GitHub! 
 
 <div>
