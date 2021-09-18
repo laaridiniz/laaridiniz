@@ -1,5 +1,7 @@
-### Olá! Eu sou a Larissa! 👋🏻
-Seja muito bem-vindo ao meu GitHub! 
+### Seja muito bem-vindo(a) ao meu perfil!🌷
+ Eu sou a Larissa e atualmente sou aluna do curso de Análise e Desenvolvimento de Sistemas da FATEC.
+ - Fique à vontade para entrar em contato comigo por qualquer dos e-mails e redes sociais abaixo 😉
+ ##
 
 <div>
   <a href="https://github.com/laaridiniz">
