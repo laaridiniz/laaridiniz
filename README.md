@@ -1,5 +1,5 @@
 ### Olá! Eu sou a Larissa! 👋
-- Seja muito bem-vindo ao meu GitHub! 
+Seja muito bem-vindo ao meu GitHub! 
 
 <div>
   <a href="https://github.com/laaridiniz">
