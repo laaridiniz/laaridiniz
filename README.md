@@ -5,8 +5,9 @@
  - :woman: Pronouns: She/Her/Hers
  - :books: I'm currently graduating in Systems Analysis and Development by FATEC-SJC
  - :seedling: I'm learning about programming logic fundamentals with Python and basic front-end tools
+ - :computer: I'm looking for my first internship
  - :hearts: Love my family and my dogs
- - :zap: Fun facts: I can't live without my guitar (sorry, neighbours!)
+ - :zap: Fun fact: I can't live without my guitar (sorry, neighbours!)
  - :video_game: During my free time, I like to play videogame and truco.
  
  If you want to get in touch, here are my emails and social medias links:
