@@ -5,7 +5,7 @@
  - :woman: Pronouns: She/Her/Hers
  - :books: I'm currently graduating in Systems Analysis and Development by FATEC-SJC
  - :seedling: I'm learning about programming logic fundamentals with Python and basic front-end tools
- - :computer: I'm looking for an internship to get my hands dirty!
+ - :computer: IT Intern - Imagem (Esri Official Distributor)
  - :hearts: Love my family and my dogs
  - :zap: Fun fact: I can't live without my guitar (sorry, neighbours!)
  - :video_game: During my free time, I like to play videogame and truco.
