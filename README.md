@@ -4,11 +4,11 @@
  <br>
  - :woman: Pronouns: She/Her/Hers
  - :books: I'm currently graduating in Systems Analysis and Development by FATEC-SJC
- - :seedling: I'm learning about programming logic fundamentals with Python and basic front-end tools
+ - :seedling: I'm learning to apply logic fundamentals with Java and basic front-end tools
  - :computer: IT Intern - Imagem (Esri Official Distributor)
  - :hearts: Love my family and my dogs
  - :zap: Fun fact: I can't live without my guitar (sorry, neighbours!)
- - :video_game: During my free time, I like to play videogame and truco.
+ - :video_game: During my free time, I like to play online games and truco.
  
  If you want to get in touch, here are my emails and social medias links:
  <br>
