@@ -5,7 +5,7 @@
  - :woman: Pronouns: She/Her/Hers
  - :books: I'm currently graduating in Systems Analysis and Development by FATEC-SJC
  - :seedling: I'm learning to apply logic fundamentals with Java and basic front-end tools
- - :computer: IT Intern - Imagem (Esri Official Distributor)
+ - :computer: Support Intern - Imagem (Esri Official Distributor)
  - :hearts: Love my family and my dogs
  - :zap: Fun fact: I'm ambidextrous
  - :video_game: In my free time, I like to play my guitar and play some games.
