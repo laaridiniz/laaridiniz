@@ -1,4 +1,4 @@
-## Hi there, I'm Larissa Diniz! :wave:
+## Hi there, I'm Larissa! :wave:
 
  Welcome to my GitHub!
  <br>
