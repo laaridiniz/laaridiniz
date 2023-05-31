@@ -2,13 +2,13 @@
 
  Welcome to my GitHub!
  <br>
- - :woman: Pronouns: She/Her/Hers
+ - :woman: Pronouns: She/Her
  - :books: I'm currently graduating in Systems Analysis and Development by FATEC-SJC
- - :seedling: I'm learning to apply logic fundamentals with Java and basic front-end tools
+ - :seedling: I'm learning to apply logic fundamentals with front-end tools, especially JavaScript and React
  - :computer: Support Intern - Imagem (Esri Official Distributor)
- - :hearts: Love my family and my dogs
+ - :hearts: I love to spend some time with my dogs playing my guitar
  - :zap: Fun fact: I'm ambidextrous
- - :video_game: In my free time, I like to play my guitar and play some games.
+ - :video_game: Fan of Truco, FIFA and Mario games
  
  If you want to get in touch, here are my emails and social medias links:
  <br>
@@ -27,6 +27,7 @@
    <img align="center" alt="Lari-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
    <img align="center" alt="Lari-Sales" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg">
    <img align="center" alt="Lari-DevOps" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2248/PNG/512/microsoft_azure_devops_icon_138386.png">
+  <img align="center" alt="Lari-Node" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
    <img align="center" alt="Lari-Type" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
    <img align="center" alt="Lari-React" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
    <img align="center" alt="Lari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
