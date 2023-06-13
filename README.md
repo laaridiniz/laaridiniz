@@ -43,7 +43,7 @@
 <br>
 <div>
   <a href="https://github.com/laaridiniz">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=laaridiniz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laaridiniz&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=laaridiniz&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laaridiniz&layout=compact&langs_count=7&theme=holi"/>
 </div>
 
