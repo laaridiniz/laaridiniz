@@ -18,31 +18,15 @@
   <a href = "mailto:contatolarissa_a_p@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/larissa-diniz-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <br>
+ </div>
  <br>
- Languages and tools:
+ <div>
+   Languages and tools:
+   <br>
+ </div>
+<br>
  
- <div style="display:inline_block"><br>
-   <img align="center" alt="Lari-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-   <img align="center" alt="Lari-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-   <img align="center" alt="Lari-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-   <img align="center" alt="Lari-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-   <img align="center" alt="Lari-Type" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-   <img align="center" alt="Lari-React" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-   <img align="center" alt="Lari-Node" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-   <img align="center" alt="Lari-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-   <img align="center" alt="Lari-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-   <img align="center" alt="Lari-MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-   <img align="center" alt="Lari-Canva" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
-   <img align="center" alt="Lari-Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-   <img align="center" alt="Lari-VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-   <img align="center" alt="Lari-IntelliJ" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-   <img align="center" alt="Lari-Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-   <img align="center" alt="Lari-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-   <img align="center" alt="Lari-Sales" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg"/>
-   <img align="center" alt="Lari-DevOps" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2248/PNG/512/microsoft_azure_devops_icon_138386.png"/>
-          
-
-</div>
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,figma,idea,vscode,git,github,linux,mysql,py,java)](https://skillicons.dev)
  
  ##
  
