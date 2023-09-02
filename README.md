@@ -26,7 +26,7 @@
  </div>
 <br>
  
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,figma,idea,vscode,git,github,linux,mysql,py,java)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,linux,mysql,py,java)](https://skillicons.dev)
  
  ##
  
