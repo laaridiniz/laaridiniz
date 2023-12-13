@@ -3,11 +3,11 @@
  Welcome to my GitHub!
  <br>
  - :woman: Pronouns: She/Her
- - :books: I'm currently graduating in Systems Analysis and Development by FATEC-SJC
- - :seedling: I'm learning to apply logic fundamentals with front-end tools, especially JavaScript and React
+ - :books: I'm currently graduating in Systems Analysis and Development at FATEC-SJC
+ - :seedling: I'm learning to apply logic fundamentals with front-end tools, more precisely using JavaScript and React
  - :computer: Support Intern - Imagem (Esri Official Distributor)
  - :hearts: I love to spend some time with my dogs playing my guitar
- - :zap: Fun fact: I'm ambidextrous
+ - :zap: Curious fact: I'm ambidextrous
  - :video_game: Fan of Truco, FIFA and Mario games
  
  If you want to get in touch, here are my emails and social medias links:
