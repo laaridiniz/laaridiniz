@@ -4,9 +4,11 @@
  <br>
  - :woman: Pronouns: She/Her
  - :books: I'm currently graduating in Systems Analysis and Development at FATEC-SJC
- - :seedling: I'm learning to apply logic fundamentals with front-end tools, more precisely using JavaScript and React
- - :computer: Support Intern - Imagem (Esri Official Distributor)
- - :hearts: I love to spend some time with my dogs playing my guitar
+ - :seedling: I'm learning to apply logic fundamentals with front-end tools, more precisely using JavaScript, TypeScript and React
+ - :computer: Support Technician - Imagem (Esri Official Distributor)
+ - ❤️ I love to spend some time with my dogs playing my guitar
+ - 🌏 In my free time, I love studying English and Korean
+ - 🎭 K-드라마와 K-팝을 사랑합니다
  - :zap: Curious fact: I'm ambidextrous
  - :video_game: Fan of Truco, FIFA and Mario games
  
