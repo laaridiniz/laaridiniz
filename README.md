@@ -34,8 +34,9 @@
  
 <br>
 <div>
-  <a href="https://github.com/laaridiniz">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=laaridiniz&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laaridiniz&layout=compact&langs_count=6&theme=holi"/>
+
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=laaridiniz&theme=chartreuse-dark&include_all_commits=true&count_private=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laaridiniz&layout=compact&langs_count=6&theme=chartreuse-dark"/>
+  
 </div>
 
