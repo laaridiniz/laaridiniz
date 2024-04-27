@@ -8,7 +8,7 @@
  - :computer: Support Technician - Imagem (Esri Official Distributor)
  - ❤️ I love to spend some time with my dogs playing my guitar
  - 🌏 In my free time, I love studying English and Korean
- - 🎭 K-드라마와 K-팝을 사랑합니다
+ - 🎭 케이팝과 케이드라마에 중독된 사람
  - :zap: Curious fact: I'm ambidextrous
  - :video_game: Fan of Truco, FIFA and Mario games
  
@@ -40,3 +40,15 @@
   
 </div>
 
+##
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
