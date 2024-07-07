@@ -3,8 +3,8 @@
  Welcome to my GitHub!
  <br>
  - :woman: Pronouns: She/Her
- - :books: I'm currently graduating in Systems Analysis and Development at FATEC-SJC
- - :seedling: I'm learning to apply logic fundamentals with front-end tools, more precisely using JavaScript, TypeScript and React
+ - :books: I'm a systems analyst and developer graduated from FATEC-SJC
+ - :seedling: During graduation, I had a lot of contact with front-end development tools (JavaScript, TypeScript e React.js) and I'm currently looking to improve my knowledge of databases and geoprocessing (ArcGIS).
  - :computer: Support Technician - Imagem (Esri Official Distributor)
  - ❤️ I love to spend some time with my dogs playing my guitar
  - 🌏 In my free time, I love studying English and Korean
