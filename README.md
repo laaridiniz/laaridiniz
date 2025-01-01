@@ -29,6 +29,14 @@
 <br>
  
  [![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,ts,react,vue,linux,aws,docker,mysql,mongodb,py,java)](https://skillicons.dev)
+
+
+ <div>
+   Certifications:
+  <br>
+  <br>
+   <img height="110em" src="https://github.com/laaridiniz/laaridiniz/blob/main/images/gis-fundamentals-foundation-2024.png"/>
+</div>
  
  ##
  
